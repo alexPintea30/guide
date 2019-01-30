@@ -1,0 +1,12 @@
+Cand ai un proiect pe react pasii sunt urmatorii:
+
+1. Instalezi dependintele (dupa ce ai clonat evident si il ai in PC)
+
+Te duci in folderul respectiv si zici:
+
+yarn - asta iti instaleaza toate dependintele necesare
+
+2. Dupa ce ai instalat dependintele trebuie sa pornesti aplicatia
+
+yarn start - asta iti porneste aplicatia si dupa poti sa incepi sa 
+adaugi chestii in proiect
